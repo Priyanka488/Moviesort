@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moviesort</string>
+    <string name="simple">Select one of the options</string>
+    <string name="url">your url will be displayed here </string>
+    <string name="content">Results will be displayed here</string>
+    <string name="error_message">Cannot load the results ! please try again later</string>
+</resources>
